@@ -1,0 +1,14 @@
+O que acontece quando você inicializa um repositório? Por que você precisa fazer isso?
+
+
+Como a área de preparação é diferente do diretório de trabalho e do repositório? Qual o valor que você acha que ele oferece?
+
+Como você pode usar a área de teste para ter certeza de que você tem um commit por mudança lógica?
+
+Quais são algumas situações em que ramos seria útil para manter sua história organizada? Como os ramos ajudariam?
+
+Como os diagramas ajudam você a visualizar a estrutura da filial?
+
+Qual é o resultado da fusão de dois ramos juntos? Por que o representamos no diagrama da maneira que fazemos?
+
+Quais são os prós e contras da fusão automática Git vs sempre fazendo mescla manualmente?
